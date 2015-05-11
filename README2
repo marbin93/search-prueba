@@ -1,1 +1,26 @@
+<<<<<<< HEAD
 Cambios del branch de search-devs
+=======
+-- crear una nueva rama 
+git branch nueva-rama
+
+--Cambiarce de rama
+git checkout nombre_rama
+
+-- subir cambios
+git status
+
+git add .
+
+git commit -m "comentario" 
+
+git push rama_cambio
+
+-- Combinar rama 
+git merge nombre_rama
+
+-- subir cambios 
+git push origin master
+
+combinar siempre en el master
+>>>>>>> search-marbin
