@@ -14,4 +14,8 @@ git commit -m "comentario"
 git push rama_cambio
 
 -- Combinar rama 
+git merge nombre_rama
+
+-- subir cambios 
+git push origin master
 
