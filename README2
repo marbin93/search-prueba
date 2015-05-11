@@ -1,14 +1,1 @@
-<<<<<<< HEAD
-subiendo cambios de README 2 creando branch
-=======
-subiendo cambios de README 2 
-
-cambios del branch de developer con el codigo:
-
--- crear una rama 
-git branch nombre_rama 
-
---pasarme de una rama a otra 
-git checkout nombre_rama
->>>>>>> search-developer
-noc porque no funciona el merge
+Cambios del branch de search-devs
