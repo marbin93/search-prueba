@@ -19,3 +19,4 @@ git merge nombre_rama
 -- subir cambios 
 git push origin master
 
+combinar siempre en el master
