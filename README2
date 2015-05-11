@@ -1,1 +1,9 @@
 subiendo cambios de README 2 
+
+cambios del branch de developer con el codigo:
+
+-- crear una rama 
+git branch nombre_rama 
+
+--pasarme de una rama a otra 
+git checkout nombre_rama
