@@ -11,3 +11,4 @@ git branch nombre_rama
 --pasarme de una rama a otra 
 git checkout nombre_rama
 >>>>>>> search-developer
+noc porque no funciona el merge
