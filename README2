@@ -1,13 +1,17 @@
-<<<<<<< HEAD
-subiendo cambios de README 2 creando branch
-=======
-subiendo cambios de README 2 
+-- crear una nueva rama 
+git branch nueva-rama
 
-cambios del branch de developer con el codigo:
-
--- crear una rama 
-git branch nombre_rama 
-
---pasarme de una rama a otra 
+--Cambiarce de rama
 git checkout nombre_rama
->>>>>>> search-developer
+
+-- subir cambios
+git status
+
+git add .
+
+git commit -m "comentario" 
+
+git push rama_cambio
+
+-- Combinar rama 
+
